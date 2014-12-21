@@ -25,8 +25,11 @@ Game Controls
 Use the following keys to control the movement of Mazeman:
 
 <- (left arrow to turn "left" duh!)
+
 -> (right arrow to turn "right".)
+
 ^ (up arrow to turn up.)
+
 v (down arrow to turn down.)
 
 shift (continuously - to speed up Mazeman, unpress to deactivate.)
@@ -38,6 +41,7 @@ Game Rules
 2. DO NOT move close to walls/blockers.
 3. DO use boarders for resting.
 4. The score is calculated according to the game complexity and distance to target, the more you spend playing the more points you lose.
+5. The game starts after 5 seconds, and requires a refresh when it ends.
 
 Future Development
 ==================
